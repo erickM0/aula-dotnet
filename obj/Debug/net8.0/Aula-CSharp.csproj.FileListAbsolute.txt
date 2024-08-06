@@ -1,0 +1,14 @@
+C:\Users\erick\Documents\Projects\Aula-CSharp\bin\Debug\net8.0\Aula-CSharp.exe
+C:\Users\erick\Documents\Projects\Aula-CSharp\bin\Debug\net8.0\Aula-CSharp.deps.json
+C:\Users\erick\Documents\Projects\Aula-CSharp\bin\Debug\net8.0\Aula-CSharp.runtimeconfig.json
+C:\Users\erick\Documents\Projects\Aula-CSharp\bin\Debug\net8.0\Aula-CSharp.dll
+C:\Users\erick\Documents\Projects\Aula-CSharp\bin\Debug\net8.0\Aula-CSharp.pdb
+C:\Users\erick\Documents\Projects\Aula-CSharp\obj\Debug\net8.0\Aula-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Projects\Aula-CSharp\obj\Debug\net8.0\Aula-CSharp.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Projects\Aula-CSharp\obj\Debug\net8.0\Aula-CSharp.AssemblyInfo.cs
+C:\Users\erick\Documents\Projects\Aula-CSharp\obj\Debug\net8.0\Aula-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Projects\Aula-CSharp\obj\Debug\net8.0\Aula-CSharp.dll
+C:\Users\erick\Documents\Projects\Aula-CSharp\obj\Debug\net8.0\refint\Aula-CSharp.dll
+C:\Users\erick\Documents\Projects\Aula-CSharp\obj\Debug\net8.0\Aula-CSharp.pdb
+C:\Users\erick\Documents\Projects\Aula-CSharp\obj\Debug\net8.0\Aula-CSharp.genruntimeconfig.cache
+C:\Users\erick\Documents\Projects\Aula-CSharp\obj\Debug\net8.0\ref\Aula-CSharp.dll
