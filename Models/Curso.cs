@@ -8,6 +8,9 @@ namespace Aula_CSharp.Models
 {
     public class Curso
     {
+        public Curso(){
+            Alunos = new List<Pessoa>();
+        }
         public string Nome {get; set;}
 
         public List<Pessoa> Alunos { get; set; }
