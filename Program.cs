@@ -1,14 +1,35 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Aula_CSharp.Models;
 
+
+
+
+/***************** Conceitos POO ********************/
+
+ContaCorrente minhaConta =new ContaCorrente(123456, 129.90M);
+Console.WriteLine("Numero da conta corrente é "+ minhaConta.NumeroConta);
+minhaConta.ExibirSaldo();
+Console.WriteLine("Sacar R$59,70:");
+minhaConta.Sacar(59.70M);
+minhaConta.ExibirSaldo();
+Console.WriteLine("Sacar R$109,70:");
+minhaConta.Sacar(109.70M);
+minhaConta.ExibirSaldo();
+
+
+
 /***************** Exceções e Coleções ********************/
 
 // leitura de arquivo txt 
-string[] lines = File.ReadAllLines("Arquivos/ArquivoDeTexto.txt");
+// try{
+//     string[] lines = File.ReadAllLines("Arquivos/ArquivoDeTexto.txt");
 
-foreach (string line in lines){
-    Console.WriteLine(line);
-}
+//     foreach (string line in lines){
+//         Console.WriteLine(line);
+//     }
+// }catch(Exception ex){
+//     Console.WriteLine(ex.Message);
+// }
 
 
 /******* CLASSES, PROPRIEDADES, METODOS E CONSTRUTORES *****/
